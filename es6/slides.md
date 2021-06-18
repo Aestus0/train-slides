@@ -44,7 +44,7 @@ ECMAScript 6.0（以下简称 ES6）是 JavaScript 语言的下一代标准
 # 函数
 
 1. function函数
-2. 剪头函数
+2. 箭头函数
 3. generator函数
 4. async函数
 
