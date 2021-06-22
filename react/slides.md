@@ -21,8 +21,8 @@ info: |
 黄田阳
 
 ---
-
-## layout: cover
+layout: cover
+---
 
 # What is React?
 
@@ -188,5 +188,3 @@ layout: cover
 
 * 阅读 [https://zh-hans.reactjs.org/docs/thinking-in-react.html](https://zh-hans.reactjs.org/docs/thinking-in-react.html)
 * 自行开发一个待办事项应用
-
----
