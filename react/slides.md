@@ -21,13 +21,14 @@ info: |
 黄田阳
 
 ---
-
-## layout: cover
+layout: cover
+---
 
 # What is React?
 
-React 是一个声明式，高效且灵活的用于构建用户界面的 JavaScript 库。使用 React 可以将一些简短、独立的代码片段组合成复杂的 UI 界面，这些代码片段被称作“组件”。
-以下我们先用 create-react-app 创建一个 react app。
+### React 是一个声明式，高效且灵活的用于构建用户界面的 JavaScript 库。使用 React 可以将一些简短、独立的代码片段组合成复杂的 UI 界面，这些代码片段被称作“组件”。
+
+### 以下我们先用 create-react-app 创建一个 react app。
 
 <!--
 1. npm install yarn -g --registry https://registry.npm.taobao.org
@@ -188,5 +189,3 @@ layout: cover
 
 * 阅读 [https://zh-hans.reactjs.org/docs/thinking-in-react.html](https://zh-hans.reactjs.org/docs/thinking-in-react.html)
 * 自行开发一个待办事项应用
-
----
